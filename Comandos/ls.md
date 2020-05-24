@@ -21,7 +21,6 @@
 * **Ejemplos**
 
 ```ls``` o ```ls .```Muestra el contenido del directorio actual.
-
 ```ls Documents``` Muestra el contenido del directorio Documents (Ruta relativa).
 
 ```ls /home/``` Muestra el contenido del directorio home (Ruta Absoluta).
