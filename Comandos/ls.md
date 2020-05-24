@@ -19,13 +19,20 @@
 | -h|Legible por humanos|
 ***
 * **Ejemplos**
+
 ```ls``` o ```ls .```Muestra el contenido del directorio actual.
+
 ```ls Documents``` Muestra el contenido del directorio Documents (Ruta relativa).
+
 ```ls /home/``` Muestra el contenido del directorio home (Ruta Absoluta).
+
 ```ls /home/ -l``` Muestra el contenido del directorio home y le agrega mas información.
+
 ```ls -lh ``` o ```ls -l -h``` Muestra todo el contenido del directorio actual por orden alfabetico y de forma legible para humanos.
+
 ```ls -lhS``` o ```ls -l -h -S``` Lista y ordena los archivos de mayor a menor tamaño.
-```ls -lhSr``` o ```ls -l -h -S -r``` _Lista y ordena los archivos de menor a mayor tamaño._
+
+```ls -lhSr``` o ```ls -l -h -S -r``` _Lista y ordena los archivos de menor a mayor tamaño.
 
 >Los espacios, los utiliza el interprete para separar las partes de los comandos
 
