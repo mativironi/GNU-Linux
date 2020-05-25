@@ -13,6 +13,7 @@
 ```cd /``` Cambia al directorio raiz (Ruta Absoluta).
 
 ```cd pi/Documents``` Cambio al directorio Documents (Ruta Relativa).
+
 ```cd --help``` Ayuda.
 
 > La ruta del directorio puede ser Absoluta o Relativa.
