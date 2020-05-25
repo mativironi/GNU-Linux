@@ -17,15 +17,6 @@
 | -i|Ordena listados en forma inversa|
 | -S|Ordenar por tamaño de archivo, el más grande primero (SORT)|
 | -h|Legible por humanos|
-# MKDIR
-* **Nombre:** _mkdir - make directory_
-* **Sintaxis:** mkdir  _[opciones] dir1 [dir2 dir3 ... dirn]_
-* **Descripcion:** _Crea uno o mas directorios_
-
-||Opciones mas importantes| 
-| --------- | --------- |
-| -p|Permite crear una cadena de directorios completa.| 
-| -m|Permite especificar los permisos del nuevo directorio. (Ver comando chown).|
 | --help|Ayuda.| 
 
 * **Ejemplos**
