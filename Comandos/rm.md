@@ -1,6 +1,6 @@
 # RM
 * **Nombre:** _rm - remove_
-* **Sintaxis:** rm  _[opciones]  [ficheros]_
+* **Sintaxis:** rm  _[opciones]  [ficheros o directorios]_
 * **Descripcion:** _Borra archivos o directorios_
 
 ||Opciones mas importantes| 
@@ -25,5 +25,7 @@
 
 ```rm -d /home/pi/Desktop/directorio1/``` Borra directorio1 (Ruta Absoluta)
 >Para eliminar directorios es necesario usar las opciones, de lo contrario no se pueden eliminar los mismos.
+
 >Se pueden eliminar multiples ficheros y directorios.
+
 >Realiza mas funciones que **rmdir**, por lo que es mas util.
