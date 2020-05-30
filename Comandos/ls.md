@@ -5,18 +5,18 @@
 
 ||Opciones mas importantes| 
 | --------- | --------- |
-| -l|Información completa de los archivos| 
-| -a|Muestra toda la información, incluyendo las ocultas|
-| -x|Lista en columnas, ordenamiento horizontal|
-| -C|Lista en columnas, ordenamiento vertical|
-| -R|Lista directorios en forma recursiva|
-| -r|Ordena listados en forma inversa|
-| -t|Ordena el listado por fecha de última modificacion|
-| -u|Ordena el listado por fecha de último acceso|
+| -l|Información completa de los archivos.| 
+| -a|Muestra toda la información, incluyendo las ocultas.|
+| -x|Lista en columnas, ordenamiento horizontal.|
+| -C|Lista en columnas, ordenamiento vertical.|
+| -R|Lista directorios en forma recursiva.|
+| -r|Ordena listados en forma inversa.|
+| -t|Ordena el listado por fecha de última modificacion.|
+| -u|Ordena el listado por fecha de último acceso.|
 | -c|Ordena el listado por fecha de último cambio de estado.|
-| -i|Ordena listados en forma inversa|
-| -S|Ordenar por tamaño de archivo, el más grande primero (SORT)|
-| -h|Legible por humanos|
+| -i|Imprime el número de índice de cada archivo.|
+| -S|Ordenar por tamaño de archivo, el más grande primero (SORT).|
+| -h|Legible por humanos.|
 | --help|Ayuda.| 
 
 * **Ejemplos**
