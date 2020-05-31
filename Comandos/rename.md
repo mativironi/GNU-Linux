@@ -15,9 +15,11 @@
 
 ```rename -v 's/tex/txt/' *.tex``` Realiza lo mismo que el anterior con la diferencia que muestra los archivos que fueron renombrados.
 
-```rename 's/viejo/nuevo' *.txt```  Reemplaza todas las apariciones de **viejo** con **nuevo**. Mantiene la extencion **.txt**                 ![Imagenes rename](https://github.com/mativironi/GNU-Linux/blob/master/Imagenes/rename.PNG?raw=true)
+```rename 's/viejo/nuevo' *.txt```  Reemplaza todas las apariciones de **viejo** con **nuevo**. Mantiene la extencion **.txt**
+![Imagenes rename](https://github.com/mativironi/GNU-Linux/blob/master/Imagenes/rename.PNG?raw=true)
 
 ```rename 's/nuevo//' *.txt``` Eliminar parte del nombre de archivo.
+
 ![Imagenes rename1](https://github.com/mativironi/GNU-Linux/blob/master/Imagenes/rename1.PNG?raw=true)
 >Con **mv** podemos renombrar un archivo o fichero. Con **rename** podemos renombrar multiples ficheros.
 
