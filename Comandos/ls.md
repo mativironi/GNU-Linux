@@ -17,7 +17,7 @@
 | -i|Imprime el número de índice de cada archivo.|
 | -S|Ordenar por tamaño de archivo, el más grande primero (SORT).|
 | -h|Legible por humanos.|
-| --help|Ayuda.| 
+|--help|Ayuda.| 
 
 * **Ejemplos**
 
