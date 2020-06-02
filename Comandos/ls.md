@@ -4,7 +4,7 @@
 * **Descripcion:** _Muestra el contenido de un directorio_
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -l|Información completa de los archivos.| 
 | -a|Muestra toda la información, incluyendo las ocultas.|
 | -x|Lista en columnas, ordenamiento horizontal.|
