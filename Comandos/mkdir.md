@@ -4,7 +4,7 @@
 * **Descripcion:** _Crea uno o mas directorios._
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -p|Permite crear una cadena de directorios completa.| 
 | -m|Permite especificar los permisos del nuevo directorio. (Ver comando chown).|
 | --help|Ayuda.| 
