@@ -4,7 +4,7 @@
 * **Descripcion:** _Borra uno o más directorios vacios._
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -p|Permite borrar una cadena de directorios completa, siempre que los directorios estén vacíos.| 
 | --help|Ayuda.|
  
