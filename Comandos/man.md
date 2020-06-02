@@ -4,7 +4,7 @@
 * **Descripcion:** _Interfaz  que ofrece ayuda sobre muchos comandos._
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 |-k|Busca las descripciones breves y los nombres de las páginas del manual con una palabra clave.| 
 |-f|Nos enseña una descripción breve del comando indicado.|
 |-w|Localiza el fichero del manual.|
