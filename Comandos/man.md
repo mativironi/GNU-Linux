@@ -5,7 +5,7 @@
 
 ||Opciones mas importantes| 
 | --------- | --------- |
-|-k|Puede usarse para buscar en las descripciones de las páginas del manual apariciones de una palabra clave que debemos insertar.| 
+|-k|Busca las descripciones breves y los nombres de las páginas del manual con una palabra clave.| 
 |-f|Nos enseña una descripción breve del comando indicado.|
 |-w|Localiza el fichero del manual.|
 |-a|Muestra todas las páginas del manual.|
