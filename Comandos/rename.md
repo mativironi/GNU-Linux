@@ -4,7 +4,7 @@
 * **Descripcion:** _Cambiar el nombre del archivo_
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -v|Muestra los archivos que fueron renombrados, si los hay.| 
 | -i|Pregunte antes de sobrescribir archivos existentes.|
 | --help|Ayuda.|
