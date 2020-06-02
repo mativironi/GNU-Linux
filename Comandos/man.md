@@ -5,11 +5,11 @@
 
 ||Opciones mas importantes| 
 | --------- | --------- |
-| -k|Puede usarse para buscar en las descripciones de las páginas del manual apariciones de una palabra clave que debemos insertar.| 
-| -f|Nos enseña una descripción breve del comando indicado.|
-| -w|Localiza el fichero del manual.|
-| -a|Muestra todas las páginas del manual.|
-| --help|Ayuda.|
+|-k|Puede usarse para buscar en las descripciones de las páginas del manual apariciones de una palabra clave que debemos insertar.| 
+|-f|Nos enseña una descripción breve del comando indicado.|
+|-w|Localiza el fichero del manual.|
+|-a|Muestra todas las páginas del manual.|
+|--help|Ayuda.|
 
 * **Ejemplos**
 
@@ -37,5 +37,5 @@
 >4. **OPCIONES:** Descripciones de cada una de las opciones que toma el comando y que hacen.
 >5. **FICHEROS:** Directorios de ficheros relacionados con el comando o función (archivos de configuración, bases de datos, etc).
 >6. **VÉASE TAMBIÉN:** Una lista de comandos o funciones relacionadas.
->7. **BUGS:** Problemas del comando o función que están pendientes de ser resueltos. También conocido como KNOWN BUGS.
+>7. **BUGS:** Problemas del comando o función que están pendientes de ser resueltos. También conocido como BUGS.
 >8. **AUTOR:** Información sobre el programa, su pasado, sus términos de uso, y su/s creador/es.
