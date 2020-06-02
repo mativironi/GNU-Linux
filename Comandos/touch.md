@@ -4,7 +4,7 @@
 * **Descripcion:** _Crea un fichero._
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -m|Cambia solamente la fecha de modificación| 
 | --help|Ayuda.|
  
