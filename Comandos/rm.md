@@ -4,7 +4,7 @@
 * **Descripcion:** _Borra archivos o directorios_
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -r|Borra en forma recursiva todo el directorio indicado y los subdirectorios. ¡Tener cuidado!| 
 | -d|Borra directorios vacios.|
 | -i|Pregunta antes de cada borrado.|
