@@ -6,7 +6,7 @@
 * **Descripcion:** _Renombra archivos/directorios y mueve archivos/directorios de un lugar a otro._
 
 ||Opciones mas importantes| 
-| --------- | --------- |
+| :---------: | --------- |
 | -f|No pregunta nunca antes de sobreescribir.| 
 | -i|Pide confirmación antes de sobreescribir.|
 | -b|Crea una copia de seguridad antes de borrar.|
