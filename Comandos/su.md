@@ -13,7 +13,9 @@
 * **Ejemplos**
 
 ```su toto```  Se encuentra bajo el usuario "**toto**", sigue en la misma carpeta de trabajo que antes y beneficia de la conflagración del usuario de antes (shell, permisiones diversas...)
+
 ```su - toto``` El "**-**" fuerza el inicio de un nuevo shell de conexión, con las preferencias por defecto del usuario **toto**.
+
 ```su - ``` Es aconsejable de conectarse como "Super User" "**root**", usando este comando.
 
 > Cuando se ejecuta, _su_ pide la contraseña de la cuenta a la se quiere acceder, y si es aceptada, da acceso a dicha cuenta. Al no poner un usuario, se accede como administrador. Sin embargo, también es posible pasar como parámetro otro nombre de usuario.
